@@ -11,6 +11,7 @@ Navigate to the project directory:
 `bash cd mri-image-segmentation`
 
 Install the required libraries:  
+(not yet implemented)
 `bash pip install -r requirements.txt`
 
 Run the script:  
